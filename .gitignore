@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Model files
+*.joblib
+
+# Generated files
+df.csv
+feature_importances_df.csv
+results_df.csv
+
+# Output plots
+output_plots/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
